@@ -1,0 +1,12 @@
+For your Library Management System:-
+
+Authentication Module
+User Management Module
+Book Management Module
+Search Module
+Issue/Return Module
+Fine Management Module
+Dashboard Module
+Routing Module
+Database Module
+Admin Panel Module
